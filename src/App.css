@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+.weather-info {
+  border-bottom: 6px solid grey;
+  background-color: #a8cfe3;
+  width: 80%;
+  font-size: 20px;
+  font-weight: 200;
+  letter-spacing: 2px;
+  margin: auto;
+  
+}
+h1{
+  padding-top:20px;
+}
+.inputSearch{
+  width: 40%;
+  margin: auto;
+  display: block;
+
+}
+.input-group-append {
+  margin-left: 14px;
+}
+.textInfo{
+  color: #38588a;
+  text-align: center;
+  font-family:Comic sans-serif;
+  font-size: 100px;
+}
+#search{
+  
+  margin: auto;
+  padding: 20px 20px;
+}
+.weather-key {
+  color: aqua;
+  border-bottom: solid 2px rgba(255, 255, 255, 0.06);
+  padding: 20px 0 20px 0;
+  font-weight: 400;
+}
+
+.weather-key:last-child {
+  border: 0;
+}
+
